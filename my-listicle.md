@@ -1,3 +1,3 @@
-##List of Liminal Images
+# List of Liminal Images
 
-#Table of Contents
+## Table of Contents
